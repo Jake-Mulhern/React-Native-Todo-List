@@ -1,3 +1,5 @@
+// Tutorial found at https://blog.shahednasser.com/react-native-tutorial-create-your-first-app/
+
 import 'react-native-gesture-handler';
 import React from 'react';
 import { StyleSheet } from 'react-native';
